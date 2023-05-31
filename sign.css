@@ -1,0 +1,86 @@
+body{
+    background-image: url(image/starry-sky.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.sign-up-form{
+    width: 300px;
+   
+    text-align: center;
+    text-decoration: none;
+   
+    height: 400px;
+    margin: auto;
+    padding: 20px;
+}
+.sign-up-form h1{
+    color:#fff;
+}
+.input-box{
+    border-radius: 20px;
+    width: 100%;
+    font-size: 13px;
+    margin: 10px 0;
+    padding:5px;
+    color: #fff !important;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    outline: none;
+    transition: .3s;
+
+}
+
+input{
+    color: #fff;
+}
+    
+
+button{
+    
+    outline: none;
+    width: 100%;
+    padding: 8px;
+    height: 25px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px 0;
+    border:none;
+}
+.signup-btn{
+    background-color:#fff;
+    color:black;
+}
+.twitter-btn{
+    background-color:#fff;
+  color:black;
+}
+.or{
+  margin: -17px auto 10px;
+  width: 30px;
+  background:  #c8cdf6;
+}
+hr{
+    width: 80%;
+    margin-top: 20px;
+}
+i{
+    color: #fff;
+    position: relative;
+    top: -16px;
+    left: 74px;
+    
+}
+a{
+    color: #fff;
+}
+button:hover{
+  box-shadow: 3px;
+}
+.input-box::placeholder{
+    font: #fff;
+}
+
+h3{
+    color: black;
+}
